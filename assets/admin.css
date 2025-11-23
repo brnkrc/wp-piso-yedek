@@ -1,0 +1,8 @@
+.wrap .wp-list-table td a.button {
+    margin-right: 6px;
+}
+
+.wrap ul {
+    list-style: disc;
+    padding-left: 20px;
+}
